@@ -18,7 +18,7 @@ Read up: https://stripe.com/docs/api
 
 Listening for Webhooks
 ----------------------
-To implement a listener for Stripe webhooks, start with the ExampleWebhookListener.cls class. This class isn't included in the 'src' directory to help avoid contributors' own webhook implementations from unintentionally gettting committed to this public repo or from being overwritten when they pull in the latest code.
+To implement a listener for Stripe webhooks, start with the EWHLCLS. This class isn't included in the 'src' directory to help avoid contributors' own webhook implementations from unintentionally gettting committed to this public repo or from being overwritten when they pull in the latest code.
 
 Note that not ALL Stripe webhooks are currently supported. However, support for additional webhooks can easily be added to the StripeWebhookListener class. If you make changes to it, please also include the corresponding updates to this webhook implementation class.
 
