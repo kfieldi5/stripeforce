@@ -1,5 +1,4 @@
-Development Fork of StripeForce - A Stripe SDK for the Force.com Platform
-========================================
+#Development Fork of StripeForce - A Stripe SDK for the Force.com Platform
 The groundwork for this library was done by Ryan Huff. Feel free to use my development fork, but please consider helping to improve the original StripeForce by sending back all significant improvements as pull requests. So much said, here comes the original README content... 
 <p>
 <a href="https://githubsfdeploy.herokuapp.com?owner=kfieldi5&repo=stripeforce">
@@ -7,8 +6,7 @@ The groundwork for this library was done by Ryan Huff. Feel free to use my devel
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a></p>
 
-Stripe SDK for Force.com
-========================================
+#Stripe SDK for Force.com
 
 [Stripe](http://stripe.com) is a fantastic developer-friendly payment processing platform. This SDK was originally developed by Cirruspath in 2012. Please send comments, pull requests, and questions here on github.
 
