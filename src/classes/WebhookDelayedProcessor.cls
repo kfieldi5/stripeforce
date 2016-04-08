@@ -28,7 +28,7 @@ global class WebhookDelayedProcessor implements Database.Batchable<sObject> {
 					reschedule = true;
 				} catch (System.Exception e) {
 					webhook.Status__c = 'Failed';
-					webhook.Error_Message__c = e.getMessage();
+					//webhook.Error_Message__c = e.getMessage();
 				}
 			}
 		}
